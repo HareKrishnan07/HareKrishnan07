@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate learner who just finished 12th grade and will be starting college in a few months.  
+I'm a passionate developer from Coimbatore, Tamil Nadu 🇮🇳, always eager to build, learn, and collaborate on exciting tech projects.
 i'm intersted in Coding and DSA.
 
 - 🧠 Currently learning **C++, Python, SQL,JAVA** (Basics + OOP)
@@ -33,4 +33,15 @@ i'm intersted in Coding and DSA.
 
 ---
 
-📅 This GitHub profile will be my progress tracker. I'm just getting started 
+---
+
+## 📊 GitHub Stats
+
+![HareKrishnan07's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HareKrishnan07&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HareKrishnan07&layout=compact&theme=radical)
+
+---
+
+
+> ⭐️ Keep coding. Keep learning. Keep building.
