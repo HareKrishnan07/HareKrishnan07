@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate learner who just finished 12th grade and will be starting college in 4 months.  
+I'm a passionate learner who just finished 12th grade and will be starting college in a few months.  
 i'm intersted in Coding and DSA.
 
 - 🧠 Currently learning **C++, Python, SQL,JAVA** (Basics + OOP)
